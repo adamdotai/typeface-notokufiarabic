@@ -1,0 +1,14 @@
+{
+  "name": "typeface-notokufiarabic",
+  "version": "1.0.0",
+  "description": "Noto Kufi Arabic typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "arabic font",
+    "noto kufi arabic"
+  ],
+  "author": "Anouar Mchichou",
+  "license": "MIT",
+  "repository": "https://github.com/AnouarMc/typeface-notokufiarabic"
+}
