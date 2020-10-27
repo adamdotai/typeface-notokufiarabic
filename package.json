@@ -1,14 +1,15 @@
 {
-  "name": "typeface-notokufiarabic",
-  "version": "1.0.0",
-  "description": "Noto Kufi Arabic typeface",
-  "main": "index.css",
-  "keywords": [
-    "typeface",
-    "arabic font",
-    "noto kufi arabic"
-  ],
-  "author": "Anouar Mchichou",
-  "license": "MIT",
-  "repository": "https://github.com/AnouarMc/typeface-notokufiarabic"
+    "name": "@adamdotai/typeface-notokufiarabic",
+    "version": "1.1.0",
+    "repository": "https://github.com/adamdotai/typeface-notokufiarabic",
+    "registry": "https://npm.pkg.github.com/",
+    "description": "Noto Kufi Arabic typeface",
+    "main": "index.css",
+    "keywords": [
+        "typeface",
+        "arabic font",
+        "noto kufi arabic"
+    ],
+    "author": "adamdotai-org <devtools@adam.ai>",
+    "license": "MIT"
 }
